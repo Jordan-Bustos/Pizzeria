@@ -1,0 +1,4 @@
+#Grails Metadata file
+#Sat Jan 25 11:21:13 CET 2014
+app.grails.version=2.3.4
+app.servlet.version=3.0
